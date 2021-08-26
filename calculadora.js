@@ -43,6 +43,6 @@ Divisao(1000001, 17);
 console.log("----------------Teste de divisão por zero--------------------");
 Divisao(10, 0);
 MediaDeTres(10, 45, 79);
-console.log("----------------Teste de porcentagem--------------------");
+console.log("----------------Teste de porcentagem-------------------");
 CalculaPorcentagem(300, 15);
 GeradorDePorcentagem(2, 200);
